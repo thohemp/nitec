@@ -1,0 +1,44 @@
+[project]
+name = "nitec"
+version = "0.0.1"
+description = "The official PyTorch implementation of NITEC for eye contact detection."
+authors = [
+    {name = "Thorsten Hempel"},
+    {name = "Magnus Jung"},
+    {name = "Ahmed Abdelrahman"}
+]
+license = {file = "LICENSE.txt"}
+readme = "README.md"
+requires-python = ">3.8"
+
+keywords = ["eye contact", "estimation", "human-robot interact", "hri", "deep-learning", "pytorch", "engagement", "wacv"]
+
+classifiers = [
+    "Programming Language :: Python :: 3"
+]
+
+dependencies = [
+    'wheel',
+    'numpy>=1.19.5',
+    'opencv-python>=4.8.0.74',
+    'pandas>=2.0.3',
+    'Pillow>=8.4.0',
+    'torch>=2.0.1',
+    'torchvision>=0.15.2'
+   # 'face_detection@git+https://github.com/elliottzheng/face-detection'
+]
+
+[project.urls]
+homepath = "https://github.com/thohemp/nitec"
+repository = "https://github.com/thohemp/nitec"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+# https://setuptools.pypa.io/en/stable/userguide/datafiles.html
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["."]
