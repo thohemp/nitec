@@ -1,6 +1,6 @@
 [project]
 name = "nitec"
-version = "0.0.1"
+version = "0.0.2"
 description = "The official PyTorch implementation of NITEC for eye contact detection."
 authors = [
     {name = "Thorsten Hempel"},
