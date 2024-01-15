@@ -9,13 +9,13 @@
 If you find our work useful, please cite the paper:
 
 ```BibTeX
-@misc{hempel2023nitec,
-      title={NITEC: Versatile Hand-Annotated Eye Contact Dataset for Ego-Vision Interaction}, 
-      author={Thorsten Hempel and Magnus Jung and Ahmed A. Abdelrahman and Ayoub Al-Hamadi},
-      year={2023},
-      eprint={2311.04505},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Hempel_2024_WACV,
+    author    = {Hempel, Thorsten and Jung, Magnus and Abdelrahman, Ahmed A. and Al-Hamadi, Ayoub},
+    title     = {NITEC: Versatile Hand-Annotated Eye Contact Dataset for Ego-Vision Interaction},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2024},
+    pages     = {4437-4446}
 }
 ```
 ## <div align="center"> **Paper**</div>
