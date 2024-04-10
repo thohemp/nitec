@@ -18,7 +18,6 @@ If you find our work useful, please cite the paper:
   number={},
   pages={4425-4434},
   doi={10.1109/WACV57701.2024.00438}}
-}
 ```
 ## <div align="center"> **Paper**</div>
 > [Thorsten Hempel, Magnus Jung, Ahmed A. Abdelrahman and Ayoub Al-Hamadi, "NITEC: Versatile Hand-Annotated Eye Contact Dataset for Ego-Vision Interaction", *accepted at WACV 2024*.](https://arxiv.org/abs/2311.04505)
