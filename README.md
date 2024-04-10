@@ -14,8 +14,6 @@ If you find our work useful, please cite the paper:
   booktitle={2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)}, 
   title={NITEC: Versatile Hand-Annotated Eye Contact Dataset for Ego-Vision Interaction}, 
   year={2024},
-  volume={},
-  number={},
   pages={4425-4434},
   doi={10.1109/WACV57701.2024.00438}}
 ```
