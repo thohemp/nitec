@@ -17,8 +17,7 @@ If you find our work useful, please cite the paper:
   volume={},
   number={},
   pages={4425-4434},
-  doi={10.1109/WACV57701.2024.00438}},
-  pages = {4437-4446}
+  doi={10.1109/WACV57701.2024.00438}}
 }
 ```
 ## <div align="center"> **Paper**</div>
